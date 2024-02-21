@@ -1,0 +1,12 @@
+operator:
+  address: 0xe270CE1ed0b352633925F3971f14ceD9f4ab80Fc
+  earnings_receiver_address: 0xe270CE1ed0b352633925F3971f14ceD9f4ab80Fc
+  delegation_approver_address: "0x0000000000000000000000000000000000000000"
+  staker_opt_out_window_blocks: 0
+  metadata_url: https://github.com/qingshan141319/eigenlayer-/new/main/metadata.json
+
+el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
+eth_rpc_url: https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161
+private_key_store_path: /root/.eigenlayer/operator_keys/qingshan.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 5
